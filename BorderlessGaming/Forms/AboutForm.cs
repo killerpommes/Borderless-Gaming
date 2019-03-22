@@ -31,6 +31,11 @@ namespace BorderlessGaming.Forms
             Tools.GotoSite("http://steamcommunity.com/app/388080/");
         }
 
+        private void OpenRainway(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Tools.GotoSite("https://rainway.io/?ref=borderlessgaming");
+        }
+
         private void OpenOwnerGithub(object sender, EventArgs e)
         {
             Tools.GotoSite("https://github.com/Codeusa/");
