@@ -167,9 +167,6 @@
   <data name="&gt;&gt;btnRemoveFavorite.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;rainwayStrip.Name" xml:space="preserve">
-    <value>rainwayStrip</value>
-  </data>
   <data name="&gt;&gt;toolStripOpenDataFolder.Name" xml:space="preserve">
     <value>toolStripOpenDataFolder</value>
   </data>
@@ -386,9 +383,6 @@
   </data>
   <data name="contextFavScreen.Size" type="System.Drawing.Size, System.Drawing">
     <value>207, 22</value>
-  </data>
-  <data name="&gt;&gt;checkOutRainwayToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="trayIcon.Text" xml:space="preserve">
     <value>Borderless Gaming</value>
@@ -614,9 +608,6 @@
   </data>
   <data name="addSelectedItem.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
-  </data>
-  <data name="&gt;&gt;rainwayStrip.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="toolStripAutomaximize.Text" xml:space="preserve">
     <value>Auto-Maximize</value>
@@ -1175,9 +1166,6 @@
   <data name="&gt;&gt;contextFavScreen.Name" xml:space="preserve">
     <value>contextFavScreen</value>
   </data>
-  <data name="&gt;&gt;toolStripRainway.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;toolStripFullScreen.Name" xml:space="preserve">
     <value>toolStripFullScreen</value>
   </data>
@@ -1210,9 +1198,6 @@
   </data>
   <data name="&gt;&gt;toolStripRemoveMenus.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rainwayMenuItem.Name" xml:space="preserve">
-    <value>rainwayMenuItem</value>
   </data>
   <data name="addSelectedItem.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1813,17 +1798,11 @@
   <data name="&gt;&gt;lstProcesses.Type" xml:space="preserve">
     <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="rainwayMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 22</value>
-  </data>
   <data name="toolStripFullApplicationRefresh.Size" type="System.Drawing.Size, System.Drawing">
     <value>276, 22</value>
   </data>
   <data name="toolStripByRegex.Size" type="System.Drawing.Size, System.Drawing">
     <value>268, 22</value>
-  </data>
-  <data name="&gt;&gt;toolStripRainway.Name" xml:space="preserve">
-    <value>toolStripRainway</value>
   </data>
   <data name="&gt;&gt;toolStripLanguages.Name" xml:space="preserve">
     <value>toolStripLanguages</value>
@@ -1833,9 +1812,6 @@
   </data>
   <data name="mnuMain.Size" type="System.Drawing.Size, System.Drawing">
     <value>471, 29</value>
-  </data>
-  <data name="&gt;&gt;rainwayMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripMinimizedToTray.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1948,12 +1924,6 @@
   <data name="toolStripHideWindowsTaskbar.Text" xml:space="preserve">
     <value>Hide Windows Taskbar</value>
   </data>
-  <data name="toolStripRainway.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 22</value>
-  </data>
-  <data name="&gt;&gt;checkOutRainwayToolStripMenuItem.Name" xml:space="preserve">
-    <value>checkOutRainwayToolStripMenuItem</value>
-  </data>
   <data name="&gt;&gt;addSelectedItem.Name" xml:space="preserve">
     <value>addSelectedItem</value>
   </data>
@@ -1992,9 +1962,6 @@
   </data>
   <data name="toolStripMenuItem9.Size" type="System.Drawing.Size, System.Drawing">
     <value>223, 6</value>
-  </data>
-  <data name="rainwayStrip.Size" type="System.Drawing.Size, System.Drawing">
-    <value>131, 27</value>
   </data>
   <data name="&gt;&gt;toolStripMenuItem14.Name" xml:space="preserve">
     <value>toolStripMenuItem14</value>
@@ -2181,9 +2148,6 @@
   </data>
   <data name="&gt;&gt;processLabel.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="checkOutRainwayToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>122, 27</value>
   </data>
   <data name="&gt;&gt;btnRemoveFavorite.Name" xml:space="preserve">
     <value>btnRemoveFavorite</value>

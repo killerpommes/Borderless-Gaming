@@ -229,11 +229,7 @@ namespace BorderlessGaming.Forms
             lstProcesses.Items.Clear();
             await _watcher.Refresh();
         }
-        private void rainwayToolStrip_Click(object sender, EventArgs e)
-        {
-            Tools.GotoSite("https://rainway.io/?ref=borderlessgaming");
-        }
-
+        
         private void usageGuideToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Tools.GotoSite("http://steamcommunity.com/app/388080/discussions/0/535151589899658778/");
@@ -955,13 +951,6 @@ fav.PositionX.ToString()), out int favPositionX);
             {
                 Hide();
             } else {
-             //   if (Config.Instance.AppSettings.ShowAdOnStart)
-               // {
-                //    var rainway = new Rainway { StartPosition = this.StartPosition, TopMost = true };
-                 //   rainway.ShowDialog(this);
-                 //   rainway.BringToFront();
-
-               // }
             }
             // initialize favorite list
             foreach (var ni in Config.Instance.Favorites)
@@ -1224,11 +1213,6 @@ fav.PositionX.ToString()), out int favPositionX);
                 }
             }
             RefreshFavoritesList(fav);
-        }
-
-        private void checkOutRainwayToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Tools.GotoSite("https://rainway.io/?ref=borderlessgaming3");
         }
     }
 }
